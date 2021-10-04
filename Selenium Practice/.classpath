@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-16">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/selenium webdriver and selenium java client/selenium-server-standalone-3.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/selenium webdriver and selenium java client/selenium-server-3.5.3/selenium-3.5.3-nodeps.jar"/>
+	<classpathentry kind="lib" path="C:/selenium webdriver and selenium java client/selenium-java-3.5.3/client-combined-3.5.3-nodeps.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
