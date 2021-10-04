@@ -20,7 +20,7 @@ public class seleniumfirstffd {
         driver.get("http://www.yahoo.com");					
         // This code will print the page title and current url		 
         System.out.println("Page title is: " + driver.getTitle());		
-        System.out.println("Page title is: " + driver.getCurrentUrl());	
+        System.out.println("Current Url is: " + driver.getCurrentUrl());	
         driver.quit();
 	}
 
